@@ -1,1 +1,1 @@
-#Open GL Excersises and exmeriments
+# Open GL Excersises and experiments
