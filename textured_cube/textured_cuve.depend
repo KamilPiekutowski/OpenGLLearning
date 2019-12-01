@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1575179999 source:/home/kamilp/Documents/textured_cuve/tutorial05.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"common/shader.hpp"
+	"common/texture.hpp"
+
+1575179981 /home/kamilp/Documents/textured_cuve/common/shader.hpp
+
+1575179981 /home/kamilp/Documents/textured_cuve/common/texture.hpp
+
+1575179981 source:/home/kamilp/Documents/textured_cuve/common/controls.cpp
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"controls.hpp"
+
+1575179981 /home/kamilp/Documents/textured_cuve/common/controls.hpp
+
+1575179981 source:/home/kamilp/Documents/textured_cuve/common/objloader.cpp
+	<vector>
+	<stdio.h>
+	<string>
+	<cstring>
+	<glm/glm.hpp>
+	"objloader.hpp"
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+
+1575179981 /home/kamilp/Documents/textured_cuve/common/objloader.hpp
+
